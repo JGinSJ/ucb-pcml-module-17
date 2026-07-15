@@ -1,6 +1,6 @@
 # Comparing Classifiers: Bank Marketing Dataset 🏦
 
-Jupyter Notebook found here: [Insert link to your prompt_III.ipynb file here]
+Jupyter Notebook found here: [Python Notebook](https://github.com/JGinSJ/ucb-pcml-module-17/blob/main/prompt_III.ipynb)
 
 ## Project Overview
 This is my submission for Practical Application III (Module 17) in the UC Berkeley ML/AI Professional Certificate program. 

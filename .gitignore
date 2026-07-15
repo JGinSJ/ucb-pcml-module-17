@@ -1,4 +1,11 @@
 # ignore Virtual Environment
-/venv/*
-# ignore .DS_Store files
+venv/
+
+# Ignore Mac system files
 .DS_Store
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
